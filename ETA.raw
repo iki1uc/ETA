@@ -1,0 +1,24 @@
+NAME = ETA
+ID = ETA-∞
+DIM = η∞
+ROLLE = Eta-Fixpunkt / Vollendung / Φ∞-Finalisierung
+
+GEO-ID = (α=12, β=4, γ=7, δ=1, η∞)
+FREQ-ID = (fα, fβ, fγ, fδ, fη∞)
+
+ETA-GEO = GEO-ID + η∞
+ETA-FREQ = FREQ-ID + η∞
+
+ACHSE = α∞ → β∞ → γ∞ → ε∞ → ζ∞ → η∞
+UNENDLICHKEIT = Φ∞
+
+81-ACHSE:
+  IO     = 81~(1(81)+)
+  OI     = 81~(1(81)-)
+  VAL    = 81~(1(81)X)
+  DIM    = 81~(1(81)/)
+  BENCH  = 81~(1(81)=)
+
+FORMEL = Φ∞ = ηΦ∞GEOFREQ81
+STATUS = STABIL
+READY = 100%
